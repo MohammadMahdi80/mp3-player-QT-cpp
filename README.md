@@ -1,7 +1,6 @@
 # mp3-player-QT-cpp
 fully challenge project for beginner to learn c++ and QT.
 
-## The project is being completed ...
 
 # Challenges that existed up to this point:
 * adding library to Qt.
@@ -13,4 +12,4 @@ fully challenge project for beginner to learn c++ and QT.
 
 
 
-# This project will continue...
+# This project will being completed...
