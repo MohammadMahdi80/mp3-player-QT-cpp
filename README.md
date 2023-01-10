@@ -12,4 +12,8 @@ fully challenge project for beginner to learn c++ and QT.
 
 
 
+https://user-images.githubusercontent.com/82968741/211432561-b4687e14-e423-4fac-afb6-5816b3b4bf6d.mp4
+
+
+
 # This project will being completed...
